@@ -1,6 +1,9 @@
 # Gats-Tools
 
-AutoBot for gats.io / gats2.io
+GatsBot => Automatic walk to middle of the map
+GatsAccount => Automatic create accounts
+GatsClient => Desktop client for gats.io
+
 press f12 in gats.io paste code & done.
 
 # info
