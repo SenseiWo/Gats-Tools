@@ -1,11 +1,11 @@
 // V1.0.0
 setInterval(() => {
-if(document.getElementById("logoutButton")){ // detector
+if(document.getElementById("logoutButton")){
 document.getElementById("logoutButton").click();
 } }, 1000);
 
 setInterval(() => {
-if(document.getElementById("loginButton")){ // detector
+if(document.getElementById("loginButton")){
 document.getElementById("registerButton").click();
 } }, 3000);
 
